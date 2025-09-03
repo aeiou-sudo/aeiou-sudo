@@ -10,5 +10,6 @@ My current focus is at the intersection of machine learning and systems programm
 
 - 🌐 [LinkedIn: paul-jose-016](https://www.linkedin.com/in/paul-jose-016)
 - 💻 [GitHub: aeiou-sudo](https://github.com/aeiou-sudo)
+- 💻 [Portfolio: Paul Jose]([https://github.com/aeiou-sudo](https://aeiou-sudo.github.io/portfolio))
 
 **Let’s connect if you share similar interests in Rust, machine learning, or systems programming!**
