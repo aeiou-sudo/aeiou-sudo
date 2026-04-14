@@ -4,19 +4,6 @@
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeiou-sudo&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=aeiou-sudo&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeiou-sudo&hide_border=true"/>
-</p>
-
----
-
 ## What I do
 
 I am interested in problems where **models meet reality**:
@@ -46,6 +33,7 @@ Most models perform well *within subjects*. I focus on **cross-subject robustnes
 ---
 
 ### Network QoS — Learning under System Constraints
+Exploring how **network behavior and ML decisions interact**.
 
 - SRv6-based SD-WAN simulation
 - Policy-driven routing under dynamic conditions
@@ -54,6 +42,7 @@ Most models perform well *within subjects*. I focus on **cross-subject robustnes
 ---
 
 ### Optimization — From Theory to Deployment
+Framing real problems as **mathematical optimization**:
 
 - CCTV placement → ILP + column generation  
 - Resource allocation under constraints  
@@ -62,6 +51,7 @@ Most models perform well *within subjects*. I focus on **cross-subject robustnes
 ---
 
 ### Learning with Structure
+Not all problems are purely supervised.
 
 - Student performance prediction via clustering + modeling  
 - Bayesian learning (EM-based inference)  
@@ -70,17 +60,10 @@ Most models perform well *within subjects*. I focus on **cross-subject robustnes
 ---
 
 ### Systems Work
+Understanding what happens **below the model layer**.
 
 - seccomp-based syscall filtering (C / Linux)  
 - Focus on control, safety, and efficiency  
-
----
-
-## 🧠 Skill Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeiou-sudo&layout=compact&hide_border=true"/>
-</p>
 
 ---
 
@@ -94,9 +77,11 @@ Most models perform well *within subjects*. I focus on **cross-subject robustnes
 
 ## Direction
 
+I am moving toward:
+
 - ML systems under resource constraints  
 - efficient and interpretable models  
-- system-aware learning  
+- system-aware learning (networks, edge, real-time)  
 
 ---
 
