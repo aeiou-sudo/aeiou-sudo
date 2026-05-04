@@ -1,91 +1,72 @@
-# Paul Jose
+# Hi, I'm Paul Jose 👋
 
-> Building machine learning systems that work *under constraints*
-
----
-
-## What I do
-
-I am interested in problems where **models meet reality**:
-
-- data is noisy  
-- systems are constrained  
-- decisions have trade-offs  
-
-Most of my work sits between:
-
-`Machine Learning` × `Systems` × `Optimization`
+M.Tech Computer Science student with a focus on **Machine Learning, Deep Learning, and Systems**.  
+Interested in building efficient, interpretable, and scalable AI systems.
 
 ---
 
-## Selected Work
+## 🧠 About Me
 
-### EEG Classification — Generalization over Subjects
-Most models perform well *within subjects*. I focus on **cross-subject robustness**.
-
-- Subject-independent pipeline (strict split discipline)
-- Windowed normalization (per-channel stability)
-- Controlled-capacity CNN (avoiding overfitting traps)
-- Evaluation beyond accuracy (class-wise behavior)
-
-→ Current direction: interpretability (SHAP), structure-aware architectures
+- 🎓 M.Tech in Computer Science & Engineering  
+- 💡 Strong foundation in ML, Data Structures, and Computer Networks  
+- 🔬 Exploring **EEG-based deep learning**, **optimization**, and **applied AI systems**
+- ⚙️ Interested in bridging **research → real-world deployment**
+- 🌍 Open to research internships and collaborative projects  
 
 ---
 
-### Network QoS — Learning under System Constraints
-Exploring how **network behavior and ML decisions interact**.
+## ⚡ Technical Skills
 
-- SRv6-based SD-WAN simulation
-- Policy-driven routing under dynamic conditions
-- Trade-offs: throughput vs reliability vs adaptability
+**Languages**  
+`Python` `Java` `C` `Rust` `JavaScript`
 
----
+**ML / AI**  
+`TensorFlow` `Keras` `Scikit-learn` `Deep Learning` `Model Optimization`
 
-### Optimization — From Theory to Deployment
-Framing real problems as **mathematical optimization**:
+**Systems & Tools**  
+`Linux` `Git` `Docker (basic)` `Google Cloud`
 
-- CCTV placement → ILP + column generation  
-- Resource allocation under constraints  
-- Scalable formulations over naive heuristics  
-
----
-
-### Learning with Structure
-Not all problems are purely supervised.
-
-- Student performance prediction via clustering + modeling  
-- Bayesian learning (EM-based inference)  
-- Reinforcement learning for O-RAN handover (PPO-LSTM)  
+**Core Areas**  
+`Data Structures & Algorithms`  
+`Computer Networks (OSPF, BGP, VLAN)`  
+`Database Systems`
 
 ---
 
-### Systems Work
-Understanding what happens **below the model layer**.
+## 📌 Selected Work
 
-- seccomp-based syscall filtering (C / Linux)  
-- Focus on control, safety, and efficiency  
+- EEG Classification using 1D CNN (subject-independent modeling)
+- Hyperparameter Optimization using surrogate models
+- SRv6-based SD-WAN QoS simulation
+- Bayesian Deep Learning with EM-based methods
 
----
-
-## How I think
-
-- Prefer **robustness over benchmark spikes**  
-- Care about **failure modes, not just success cases**  
-- Treat ML as part of a **system, not a standalone model**  
+> Focus: Not just building models, but understanding **why they work and how to improve them**
 
 ---
 
-## Direction
+## 🧩 Current Interests
 
-I am moving toward:
-
-- ML systems under resource constraints  
-- efficient and interpretable models  
-- system-aware learning (networks, edge, real-time)  
+- Interpretable AI (SHAP, explainability)
+- Efficient model training & hyperparameter tuning
+- Neural signal processing (BCI)
+- Optimization in ML systems
 
 ---
 
-## Links
+## 📈 Approach
 
-- LinkedIn → https://www.linkedin.com/in/paul-jose-016  
-- Portfolio → https://aeiou-sudo.github.io/portfolio  
+I prefer:
+- Clean, reproducible experiments  
+- Strong theoretical grounding  
+- Practical implementation with measurable results  
+
+---
+
+## 🤝 Let's Connect
+
+- Open to: Research internships, ML engineering roles, collaborations  
+- Interested in: AI + Systems + Real-world applications  
+
+---
+
+⭐ *“Build with clarity. Optimize with purpose. Learn continuously.”*
